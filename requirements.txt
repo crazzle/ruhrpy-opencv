@@ -6,4 +6,5 @@ pandas
 scikit-learn
 scipy
 matplotlib
-
+scikit-image
+pillow
